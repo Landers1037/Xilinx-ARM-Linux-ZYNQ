@@ -7,10 +7,13 @@ Xilinx公司的base system 硬件平台生成的，基于arm架构重新编译�
 软件架构说明
 
 BOOT启动分区：BOOT.bin,UIamge,devicetree.dtb
+
 FS文件系统：Ubuntu18.04 LTS minimal rootfs
 
 BOOT.bin文件用于启动zybo板时加载引导程序，由板载引导加载UBOOT启动linux
+
 uImage文件为linux系统内核文件，用于启动系统挂载磁盘
+
 devicetree.dtb文件为设备树二进制文件，用于加载硬件设备
 
 
