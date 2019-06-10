@@ -1,0 +1,7 @@
+#! /bin/sh
+
+/root/wlan_pig.sh
+#start wlan_dhcp
+
+/root/APPForCar/zrtcp_app/tcp_server
+#start tcp_server

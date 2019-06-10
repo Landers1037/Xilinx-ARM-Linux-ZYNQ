@@ -1,0 +1,6 @@
+#! /bin/sh
+#start all sh at on time
+
+exec ifconfig eth0 up
+exec ifconfig eth0 192.168.1.99
+echo "your test is complete,use ipconfig to check"

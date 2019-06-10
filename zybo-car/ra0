@@ -1,0 +1,4 @@
+#! /bin/sh
+
+exec ifconfig ra0 up
+echo "start ra0 up"

@@ -1,0 +1,5 @@
+#! /bin/sh
+#start all sh at on time
+sh /etc/init.d/eth0
+sh /etc/init.d/ra0
+sh /etc/init.d/tcp
