@@ -97,5 +97,5 @@ Xilinx公司的base system 硬件平台生成的，基于arm架构重新编译�
 3. 下载最新的xilinx官方提供的base-system系统使用vivado进行板材更新，使用sdk工具生成启动镜像文件，vivado版本低于2017.4可能出现工程不能更新的问题
 4. 跳线帽一定要放在sd启动位，否则不能从sd卡启动
 5. 使用linaro官方提供的ubuntu arm编译系统可能会出现内核不能挂载文件系统的问题，因为文件系统过于old
-6. [我的博客](https://landers1037.top)
+6. [我的博客](http://landers1037.top)
 
