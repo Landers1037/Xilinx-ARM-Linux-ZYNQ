@@ -78,6 +78,10 @@ Xilinx公司的base system 硬件平台生成的，基于arm架构重新编译�
 
 ![1.png](./zybo.png)
 
+#### 小车启动
+
+[小车启动脚本](./zynq-car/)
+
 #### 参与贡献
 
 1. Fork 本仓库
